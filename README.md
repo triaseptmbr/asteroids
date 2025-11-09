@@ -1,6 +1,6 @@
 # Asteroid
 
-An classical asteroid game created using Pygame library.
+A classical asteroid game created using the Pygame library.
 
 ## How to use
 
